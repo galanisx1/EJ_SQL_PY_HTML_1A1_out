@@ -7,7 +7,7 @@ CORS(app)
 
 # Configuración de la base de datos
 db_config = {
-    'host': 'sql310.infinityfree.com',
+    'host': 'eif0-37975979-ejemplo-dreamweaver.ch00woi2qdij.us-east-1.rds.amazonaws.com',
     'user': 'if0_37975979',
     'password': 'Pedro3103$A',
     'database': 'eif0-37975979-ejemplo-dreamweaver',
