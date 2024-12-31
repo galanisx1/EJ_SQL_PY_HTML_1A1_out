@@ -10,7 +10,7 @@ db_config = {
     'host': 'sql310.infinityfree.com',
     'user': 'if0_37975979',
     'password': 'Pedro3103$A',
-    'database': 'eif0_37975979_ejemplo_dreamweaver',
+    'database': 'eif0-37975979-ejemplo-dreamweaver',
     'port': 3306  # Puerto predeterminado de MySQL
 }
 
