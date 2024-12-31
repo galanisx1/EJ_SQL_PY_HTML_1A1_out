@@ -7,10 +7,10 @@ CORS(app)
 
 # Configuración de la base de datos
 db_config = {
-    'host': 'eif0-37975979-ejemplo-dreamweaver.ch00woi2qdij.us-east-1.rds.amazonaws.com',
-    'user': 'if0_37975979',
+    'host': 'eif037975979db.ch00woi2qdij.us-east-1.rds.amazonaws.com',
+    'user': 'admin',
     'password': 'Pedro3103$A',
-    'database': 'eif0-37975979-ejemplo-dreamweaver',
+    'database': 'eif037975979DB',
     'port': 3306  # Puerto predeterminado de MySQL
 }
 
